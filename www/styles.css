@@ -1,0 +1,28 @@
+body {
+	font-size: 12px;
+}
+
+.tab-content {
+	padding: 20px;
+}
+
+
+.selector-container {
+	display: flex;
+	gap: 10%;
+	flex-flow: center;
+}
+
+.title-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	padding-bottom: 20px;
+	margin-bottom: 40px;
+	border-bottom: solid 3px #AAA;
+}
+
+.agg-button{
+	width: 100%;
+}
